@@ -1,0 +1,24 @@
+W Lakehouse lh_retail w katalogu Files/raw/retail leżą surowe eksporty CSV
+z sieci sklepów: customers.csv, products.csv, stores.csv oraz zamówienia
+w katalogu orders/. Zbuduj z nich architekturę medalionową.
+
+Bronze: wczytaj pliki bez zmian treści do tabel Delta bronze_customers,
+bronze_products, bronze_stores i bronze_orders, dodając kolumny z nazwą pliku
+źródłowego i czasem załadunku.
+
+Silver: oczyść i ujednolić dane. Usuń duplikaty, ujednolić formaty dat,
+liczb, e-maili i nazw segmentów, nadaj poprawne typy. Rekordy, których nie da
+się naprawić (np. zamówienia bez klienta, z nieznanym klientem albo z ujemną
+ilością), odłóż do tabeli silver_rejected_orders z kolumną opisującą powód
+odrzucenia, zamiast je po cichu kasować.
+
+Gold: utwórz gold_monthly_sales (miesiąc, kategoria produktu, segment klienta,
+miasto sklepu, kanał, liczba zamówień, ilość, przychód netto po rabacie,
+tylko status completed) oraz gold_customer_360 (klient, segment, pierwsze
+i ostatnie zamówienie, liczba zamówień, przychód netto, udział zwrotów).
+
+Dla każdej warstwy przygotuj osobny, przetestowany notebook zapisany
+w workspace, tak aby całość można było uruchomić ponownie bez dublowania
+danych. Na końcu podaj liczbę wierszy w każdej tabeli, liczbę odrzuconych
+zamówień w podziale na powód i liczbę naprawionych rekordów w podziale na
+typ problemu.

@@ -1,0 +1,301 @@
+product_id;product_name;category;list_price;active
+P0001;Sport model 1;Sport;421.15;false
+P0002;Sport model 2;Sport;786.05;true
+P0003;Dom i ogród model 3;Dom i ogród;774.28;true
+P0004;Dom i ogród model 4;Dom i ogród;441.26;true
+P0005;Sport model 5;Sport;506.76;false
+P0006;Odzież model 6;Odzież;458.83;true
+P0007;Odzież model 7;Odzież;77.06;true
+P0008;Sport model 8;Sport;219.58;true
+P0009;Sport model 9;Sport;866.49;false
+P0010;Dom i ogród model 10;Dom i ogród;341.27;true
+P0011;Dom i ogród model 11;Dom i ogród;237.58;true
+P0012;AGD model 12;AGD;2329.06;false
+P0013;AGD model 13;AGD;1945.29;true
+P0014;Odzież model 14;Odzież;154.69;true
+P0015;Sport model 15;Sport;474,11;true
+P0016;Elektronika model 16;Elektronika;2578.20;false
+P0017;Elektronika model 17;Elektronika;1924.12;true
+P0018;Odzież model 18;Odzież;107.90;true
+P0019;Odzież model 19;Odzież;282.64;true
+P0020;Elektronika model 20;Elektronika;4455.94;true
+P0021;Dom i ogród model 21;Dom i ogród;534.86;true
+P0022;Sport model 22;Sport;945.91;true
+P0023;Sport model 23;Sport;1260.52;false
+P0024;Dom i ogród model 24;Dom i ogród;578.26;true
+P0025;AGD model 25;AGD;2197.79;false
+P0026;Dom i ogród model 26;Dom i ogród;563.13;false
+P0027;Sport model 27;Sport;1220.07;true
+P0028;Sport model 28;Sport;933.38;true
+P0029;AGD model 29;AGD;1218.36;true
+P0030;Odzież model 30;Odzież;264.52;true
+P0031;Sport model 31;Sport;909.51;false
+P0032;AGD model 32;AGD;2031.98;true
+P0033;Elektronika model 33;Elektronika;3691.96;true
+P0034;AGD model 34;AGD;1785.77;true
+P0035;Odzież model 35;Odzież;260.12;true
+P0036;Elektronika model 36;Elektronika;1261.82;true
+P0037;Dom i ogród model 37;Dom i ogród;102.25;true
+P0038;Sport model 38;Sport;337.85;false
+P0039;Elektronika model 39;Elektronika;1988.63;true
+P0040;Sport model 40;Sport;344.16;true
+P0041;Elektronika model 41;Elektronika;643.22;true
+P0042;AGD model 42;AGD;2118.82;true
+P0043;Dom i ogród model 43;Dom i ogród;591.63;true
+P0044;Dom i ogród model 44;Dom i ogród;244.16;false
+P0045;Dom i ogród model 45;Dom i ogród;374.43;false
+P0046;Elektronika model 46;Elektronika;2275,62;true
+P0047;Elektronika model 47;Elektronika;651,05;true
+P0048;Sport model 48;Sport;471.11;true
+P0049;Elektronika model 49;Elektronika;4943.43;false
+P0050;Dom i ogród model 50;Dom i ogród;607.01;true
+P0051;AGD model 51;AGD;2276.87;true
+P0052;AGD model 52;AGD;1104.98;true
+P0053;AGD model 53;AGD;3242.61;true
+P0054;Odzież model 54;Odzież;129.81;true
+P0055;Sport model 55;Sport;832.54;true
+P0056;Sport model 56;Sport;606.37;false
+P0057;Sport model 57;Sport;1068.13;true
+P0058;Sport model 58;Sport;354.07;true
+P0059;AGD model 59;AGD;3369.75;false
+P0060;AGD model 60;AGD;481.91;false
+P0061;Sport model 61;Sport;232.11;false
+P0062;AGD model 62;AGD;1207.46;true
+P0063;Odzież model 63;Odzież;480.76;true
+P0064;Sport model 64;Sport;458.93;true
+P0065;Elektronika model 65;Elektronika;2273.92;true
+P0066;Elektronika model 66;Elektronika;4864.81;true
+P0067;Odzież model 67;Odzież;149.54;false
+P0068;AGD model 68;AGD;435.74;false
+P0069;Odzież model 69;Odzież;103.85;true
+P0070;Sport model 70;Sport;988.42;true
+P0071;Sport model 71;Sport;1009.04;true
+P0072;Elektronika model 72;Elektronika;1872.68;false
+P0073;Odzież model 73;Odzież;421.10;true
+P0074;AGD model 74;AGD;1997.86;false
+P0075;Odzież model 75;Odzież;363.15;false
+P0076;AGD model 76;AGD;910.25;true
+P0077;Elektronika model 77;Elektronika;1558.16;true
+P0078;AGD model 78;AGD;3004.50;true
+P0079;AGD model 79;AGD;1397.81;false
+P0080;Dom i ogród model 80;Dom i ogród;267.65;true
+P0081;Sport model 81;Sport;1043.18;false
+P0082;Odzież model 82;Odzież;423.14;true
+P0083;Odzież model 83;Odzież;255.32;true
+P0084;Elektronika model 84;Elektronika;2616.97;true
+P0085;Elektronika model 85;Elektronika;1536.17;true
+P0086;AGD model 86;AGD;713.65;true
+P0087;Odzież model 87;Odzież;303.01;true
+P0088;Dom i ogród model 88;Dom i ogród;615.33;true
+P0089;AGD model 89;AGD;281.21;true
+P0090;Sport model 90;Sport;861.96;true
+P0091;Sport model 91;Sport;121.88;true
+P0092;Dom i ogród model 92;Dom i ogród;780.53;true
+P0093;AGD model 93;AGD;2725.14;false
+P0094;Elektronika model 94;Elektronika;1208.92;false
+P0095;Elektronika model 95;Elektronika;1393.33;true
+P0096;Odzież model 96;Odzież;104.29;false
+P0097;Elektronika model 97;Elektronika;3663,05;false
+P0098;Odzież model 98;Odzież;321.12;true
+P0099;AGD model 99;AGD;211.58;true
+P0100;Elektronika model 100;Elektronika;3396.69;false
+P0101;AGD model 101;AGD;3093.35;true
+P0102;Sport model 102;Sport;1128.10;false
+P0103;Sport model 103;Sport;838.26;false
+P0104;Elektronika model 104;Elektronika;3551.92;true
+P0105;Dom i ogród model 105;Dom i ogród;68.52;true
+P0106;Elektronika model 106;Elektronika;629.40;true
+P0107;Sport model 107;Sport;518.19;true
+P0108;Dom i ogród model 108;Dom i ogród;385.18;true
+P0109;Dom i ogród model 109;Dom i ogród;194.61;true
+P0110;Elektronika model 110;Elektronika;4062.79;true
+P0111;AGD model 111;AGD;1519.40;false
+P0112;Elektronika model 112;Elektronika;918.01;false
+P0113;Dom i ogród model 113;Dom i ogród;685.54;false
+P0114;Elektronika model 114;Elektronika;3695.79;true
+P0115;AGD model 115;AGD;1318.48;true
+P0116;Elektronika model 116;Elektronika;2849,65;true
+P0117;Odzież model 117;Odzież;203.77;false
+P0118;Dom i ogród model 118;Dom i ogród;186.07;true
+P0119;AGD model 119;AGD;1138.80;true
+P0120;Odzież model 120;Odzież;408,87;true
+P0121;Elektronika model 121;Elektronika;1963.17;true
+P0122;Sport model 122;Sport;861.28;true
+P0123;AGD model 123;AGD;1757.71;true
+P0124;AGD model 124;AGD;668.11;true
+P0125;Elektronika model 125;Elektronika;2764.67;true
+P0126;Sport model 126;Sport;351.40;true
+P0127;Sport model 127;Sport;388.53;true
+P0128;AGD model 128;AGD;2112.83;true
+P0129;Sport model 129;Sport;563.73;true
+P0130;Dom i ogród model 130;Dom i ogród;513.54;true
+P0131;Odzież model 131;Odzież;84.69;true
+P0132;Dom i ogród model 132;Dom i ogród;149.52;true
+P0133;Sport model 133;Sport;930,70;false
+P0134;Odzież model 134;Odzież;69.83;true
+P0135;AGD model 135;AGD;2302.59;false
+P0136;Elektronika model 136;Elektronika;2268.57;true
+P0137;Odzież model 137;Odzież;457.47;true
+P0138;Elektronika model 138;Elektronika;3488.35;true
+P0139;Elektronika model 139;Elektronika;1048.86;true
+P0140;AGD model 140;AGD;1441.76;true
+P0141;Odzież model 141;Odzież;447.23;true
+P0142;Dom i ogród model 142;Dom i ogród;479,72;true
+P0143;Dom i ogród model 143;Dom i ogród;706.40;true
+P0144;AGD model 144;AGD;2972.69;false
+P0145;AGD model 145;AGD;1955.89;true
+P0146;Elektronika model 146;Elektronika;3990,90;true
+P0147;Odzież model 147;Odzież;491.92;true
+P0148;AGD model 148;AGD;3084.75;false
+P0149;Odzież model 149;Odzież;150.59;true
+P0150;AGD model 150;AGD;2355.24;false
+P0151;Dom i ogród model 151;Dom i ogród;99.05;true
+P0152;AGD model 152;AGD;2866.61;true
+P0153;Elektronika model 153;Elektronika;4176,83;true
+P0154;Sport model 154;Sport;1280.98;false
+P0155;Elektronika model 155;Elektronika;2035.84;true
+P0156;Odzież model 156;Odzież;29.18;false
+P0157;Odzież model 157;Odzież;187.87;false
+P0158;AGD model 158;AGD;311.49;false
+P0159;Elektronika model 159;Elektronika;2727.18;true
+P0160;AGD model 160;AGD;176.27;true
+P0161;Sport model 161;Sport;1056.99;false
+P0162;AGD model 162;AGD;297.89;true
+P0163;Sport model 163;Sport;169.35;true
+P0164;AGD model 164;AGD;3043.70;false
+P0165;Dom i ogród model 165;Dom i ogród;550.78;true
+P0166;Elektronika model 166;Elektronika;209.18;true
+P0167;Sport model 167;Sport;1245.31;false
+P0168;Sport model 168;Sport;576,78;false
+P0169;AGD model 169;AGD;511.86;true
+P0170;Elektronika model 170;Elektronika;3332.37;false
+P0171;Sport model 171;Sport;1295.91;true
+P0172;Odzież model 172;Odzież;414.55;false
+P0173;Odzież model 173;Odzież;468.53;false
+P0174;AGD model 174;AGD;3046.30;true
+P0175;Sport model 175;Sport;920.15;true
+P0176;Odzież model 176;Odzież;454.52;false
+P0177;Dom i ogród model 177;Dom i ogród;85.63;true
+P0178;Sport model 178;Sport;416,71;true
+P0179;AGD model 179;AGD;2320.43;true
+P0180;AGD model 180;AGD;323.99;true
+P0181;Elektronika model 181;Elektronika;881.43;true
+P0182;Elektronika model 182;Elektronika;4176.57;true
+P0183;Sport model 183;Sport;245.74;false
+P0184;AGD model 184;AGD;766.70;false
+P0185;Sport model 185;Sport;1140.17;true
+P0186;Odzież model 186;Odzież;164.86;false
+P0187;AGD model 187;AGD;1806.61;true
+P0188;AGD model 188;AGD;2104.33;true
+P0189;Sport model 189;Sport;1220.41;true
+P0190;Dom i ogród model 190;Dom i ogród;37.69;true
+P0191;Sport model 191;Sport;754.43;true
+P0192;Dom i ogród model 192;Dom i ogród;655.88;true
+P0193;AGD model 193;AGD;1088,41;true
+P0194;Sport model 194;Sport;656.18;true
+P0195;Elektronika model 195;Elektronika;4472.56;false
+P0196;Sport model 196;Sport;344.58;true
+P0197;AGD model 197;AGD;1730.56;false
+P0198;Elektronika model 198;Elektronika;4427.40;true
+P0199;Odzież model 199;Odzież;198.79;true
+P0200;Sport model 200;Sport;511.57;true
+P0201;Dom i ogród model 201;Dom i ogród;452.10;false
+P0202;Elektronika model 202;Elektronika;721.17;false
+P0203;AGD model 203;AGD;205.11;true
+P0204;Odzież model 204;Odzież;371.06;false
+P0205;Sport model 205;Sport;222.98;true
+P0206;AGD model 206;AGD;1120.02;false
+P0207;Odzież model 207;Odzież;331,85;false
+P0208;Elektronika model 208;Elektronika;1409.10;true
+P0209;AGD model 209;AGD;1991.46;true
+P0210;Odzież model 210;Odzież;421.76;true
+P0211;Odzież model 211;Odzież;269.79;false
+P0212;Sport model 212;Sport;147.25;true
+P0213;Elektronika model 213;Elektronika;361.85;true
+P0214;Elektronika model 214;Elektronika;3577.33;true
+P0215;Elektronika model 215;Elektronika;1108.77;false
+P0216;Elektronika model 216;Elektronika;2671.77;true
+P0217;Elektronika model 217;Elektronika;2029.11;false
+P0218;Dom i ogród model 218;Dom i ogród;439,84;true
+P0219;Dom i ogród model 219;Dom i ogród;779.08;true
+P0220;Elektronika model 220;Elektronika;4691.64;true
+P0221;Elektronika model 221;Elektronika;429.86;false
+P0222;Sport model 222;Sport;763.11;false
+P0223;Sport model 223;Sport;1291.18;true
+P0224;Dom i ogród model 224;Dom i ogród;616.99;true
+P0225;Sport model 225;Sport;651.71;true
+P0226;Elektronika model 226;Elektronika;2595.98;true
+P0227;Dom i ogród model 227;Dom i ogród;387.32;true
+P0228;Odzież model 228;Odzież;310.31;true
+P0229;AGD model 229;AGD;2449.23;true
+P0230;AGD model 230;AGD;581,75;true
+P0231;Dom i ogród model 231;Dom i ogród;487.39;true
+P0232;Elektronika model 232;Elektronika;2819.72;false
+P0233;Sport model 233;Sport;1293.04;true
+P0234;AGD model 234;AGD;569.82;true
+P0235;AGD model 235;AGD;2951.21;false
+P0236;Sport model 236;Sport;738.51;true
+P0237;Sport model 237;Sport;59.10;true
+P0238;Elektronika model 238;Elektronika;4596.52;true
+P0239;AGD model 239;AGD;1544.00;false
+P0240;Sport model 240;Sport;1060,64;true
+P0241;Elektronika model 241;Elektronika;1293.36;true
+P0242;Odzież model 242;Odzież;201.13;true
+P0243;Dom i ogród model 243;Dom i ogród;418.94;false
+P0244;Sport model 244;Sport;1020.19;true
+P0245;Odzież model 245;Odzież;259.71;true
+P0246;Sport model 246;Sport;96.61;false
+P0247;Dom i ogród model 247;Dom i ogród;436.73;true
+P0248;Sport model 248;Sport;275.51;true
+P0249;AGD model 249;AGD;1949.96;true
+P0250;Sport model 250;Sport;674.91;true
+P0251;AGD model 251;AGD;757.43;true
+P0252;Elektronika model 252;Elektronika;2809.09;false
+P0253;Sport model 253;Sport;1108.41;true
+P0254;Odzież model 254;Odzież;453.49;true
+P0255;Sport model 255;Sport;66.14;false
+P0256;AGD model 256;AGD;1702.27;false
+P0257;Dom i ogród model 257;Dom i ogród;468.44;true
+P0258;Elektronika model 258;Elektronika;254.92;true
+P0259;Elektronika model 259;Elektronika;4640.70;true
+P0260;Sport model 260;Sport;643.84;true
+P0261;AGD model 261;AGD;1183.12;true
+P0262;Elektronika model 262;Elektronika;2855.32;true
+P0263;Sport model 263;Sport;429.76;false
+P0264;Dom i ogród model 264;Dom i ogród;830.20;true
+P0265;AGD model 265;AGD;3098.21;true
+P0266;Dom i ogród model 266;Dom i ogród;171.96;true
+P0267;Sport model 267;Sport;1016.47;false
+P0268;Elektronika model 268;Elektronika;3616.31;false
+P0269;Elektronika model 269;Elektronika;3441.24;true
+P0270;Dom i ogród model 270;Dom i ogród;873.70;true
+P0271;Odzież model 271;Odzież;464.69;true
+P0272;Sport model 272;Sport;218.12;true
+P0273;Odzież model 273;Odzież;119.82;false
+P0274;Odzież model 274;Odzież;267.18;true
+P0275;Elektronika model 275;Elektronika;1075.32;true
+P0276;AGD model 276;AGD;733.90;true
+P0277;Sport model 277;Sport;474.27;true
+P0278;Odzież model 278;Odzież;472.95;true
+P0279;AGD model 279;AGD;2944.23;true
+P0280;Odzież model 280;Odzież;492.11;true
+P0281;Sport model 281;Sport;225.81;false
+P0282;Sport model 282;Sport;707.55;false
+P0283;Sport model 283;Sport;509.59;true
+P0284;AGD model 284;AGD;2093.71;true
+P0285;Sport model 285;Sport;560.48;true
+P0286;AGD model 286;AGD;883.50;false
+P0287;Elektronika model 287;Elektronika;3509.09;false
+P0288;Sport model 288;Sport;571.66;true
+P0289;AGD model 289;AGD;2156.12;true
+P0290;Elektronika model 290;Elektronika;4917.31;false
+P0291;Elektronika model 291;Elektronika;1360.60;true
+P0292;Sport model 292;Sport;67.19;false
+P0293;Dom i ogród model 293;Dom i ogród;667.19;true
+P0294;Elektronika model 294;Elektronika;3910.03;true
+P0295;Elektronika model 295;Elektronika;4970.01;true
+P0296;Elektronika model 296;Elektronika;3161.48;true
+P0297;Odzież model 297;Odzież;482.14;true
+P0298;Odzież model 298;Odzież;422.17;true
+P0299;Dom i ogród model 299;Dom i ogród;462.24;true
+P0300;Odzież model 300;Odzież;78.20;false

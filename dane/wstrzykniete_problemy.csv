@@ -1,0 +1,11 @@
+problem,liczba
+customers: e-mail wielkimi literami,38
+customers: puste miasto,40
+customers: segment małymi literami / ze spacją,78
+customers: zduplikowany wiersz,40
+orders: brak customer_id,532
+orders: customer_id spoza słownika klientów,242
+orders: data w formacie DD.MM.RRRR,2042
+orders: ujemna ilość,521
+orders: zduplikowane zamówienie,250
+products: cena z przecinkiem dziesiętnym,17

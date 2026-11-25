@@ -1,0 +1,13 @@
+store_id,store_name,city,channel
+S001,Sklep Warszawa 1,Warszawa,stationary
+S002,Sklep Kraków 2,Kraków,stationary
+S003,Sklep Wrocław 3,Wrocław,stationary
+S004,Sklep Poznań 4,Poznań,stationary
+S005,Sklep Gdańsk 5,Gdańsk,stationary
+S006,Sklep Łódź 6,Łódź,stationary
+S007,Sklep Katowice 7,Katowice,stationary
+S008,Sklep Lublin 8,Lublin,stationary
+S009,Sklep Warszawa 9,Warszawa,stationary
+S010,Sklep Kraków 10,Kraków,stationary
+S011,Sklep Wrocław 11,Wrocław,stationary
+S012,Sklep Poznań 12,Poznań,online
